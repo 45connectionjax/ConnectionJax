@@ -1,7 +1,7 @@
 ---
-layout: post
-title: First post!
-image: /img/hello_world.jpeg
+layout: post 
+title: We Are Connect
+image: /img/WeAre.JPG
 ---
 
-This is my first post, how exciting!
+Nice to meet you all!!

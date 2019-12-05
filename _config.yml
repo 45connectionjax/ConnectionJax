@@ -70,7 +70,7 @@ author:
 social-network-links:
 #  rss: true
   email: "someone@example.com"
-  facebook: true
+#  facebook: true
 #  github: daattali
 #  twitter: daattali
 #  reddit: yourname
@@ -81,10 +81,10 @@ social-network-links:
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-telephone: +14159998888
+#telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
- yelp: yourname
+# yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:

@@ -23,7 +23,7 @@ navbar-links:
   About Us: "aboutme"
   Missions:
     - The Gathering: "https://lexinewton.github.io/ConnectionJax/"
-    - Artist Connection Theatre: "https://lexinewton.github.io/ConnectionJax/"
+    - Artist Connection Theatre: "aboutACT.md"
     - Campus Connection 838: "https://lexinewton.github.io/ConnectionJax/"
 
 # Image to show in the navigation bar - image must be a square (width = height)

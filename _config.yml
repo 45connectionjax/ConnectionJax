@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title : Connection
+#title : Connection
 
 # Short description of your site
 #description: Connecting people to Christ
@@ -19,12 +19,12 @@ title : Connection
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links :
-  About Us : "aboutme"
-  Missions :
-    - The Gathering : "https://lexinewton.github.io/ConnectionJax/"
-    - Artist Connection Theatre : "https://lexinewton.github.io/ConnectionJax/"
-    - Campus Connection 838 : "https://lexinewton.github.io/ConnectionJax/"
+#navbar-links :
+#  About Us : "aboutme"
+#  Missions :
+#    - The Gathering : "https://lexinewton.github.io/ConnectionJax/"
+#    - Artist Connection Theatre : "https://lexinewton.github.io/ConnectionJax/"
+#    - Campus Connection 838 : "https://lexinewton.github.io/ConnectionJax/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar

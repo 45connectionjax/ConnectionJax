@@ -14,22 +14,27 @@ use-site-title: false
 
 
 <!-- Gathering -->
+
+<div class="posts-list">
 <article  class="lex-preview" >
  <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
    <div class="project-card"> 
      <a target="_blank" href="https://lexinewton.github.io/ConnectionJax/">
-       <div class="lex-image">
+        <div class="post-entry-container">
+        <div class="lex-image">
         <img src= "https://github.com/lexinewton/ConnectionJax/blob/master/img/avatar-icon.png">
-       </div>
+        </div>
+        </div>
         <div class="spacer"></div>   
-         <h3 class="lex-title"> The Gathering </h3>
+        <h3 class="lex-title"> The Gathering </h3>
         <hr class="seperator">
-       <p class="text-muted">Connecting People to Christ</p>
-      <hr class="seperator">
+        <p class="text-muted">Connecting People to Christ</p>
+        <hr class="seperator">
     </a>
    </div>
  </div>
 </article>
+</div>
 
 
 <!-- 838 -->
@@ -96,7 +101,7 @@ use-site-title: false
     <p class="post-meta">
       Posted on {{ post.date | date: site.date_format }}
     </p>
-    <div class="post-entry-container">
+  <div class="post-entry-container"> 
       {% if post.image %}
       <div class="post-image">
         <a href="{{ post.url | relative_url }}">

@@ -440,19 +440,19 @@ footer .theme-by {
   width: 33.3333333333%;
 }
 .lex-image {
-  float: none;
-  height: 192px;
-  width: 192px;
+  float: center;
+  height: 150px;
+  width: 150px;
   margin-top: 0px;
-  filter: grayscale(90%);
+  filter: grayscale(0%);
 }
 .lex-image:hover {
   filter: grayscale(0%);
 }
 .lex-image img {
-  border-radius: 100px;
-  height: 192px;
-  width: 192px;
+  border-radius: 70px;
+  height: 150px;
+  width: 150px;
 }
 .lex-preview .lex-read-more {
   font-weight: 800;
@@ -460,7 +460,7 @@ footer .theme-by {
 
 @media only screen and (min-width: 768px) {
   .lex-preview .lex-title {
-    font-size: 15px;
+    font-size: 20px;
   }
 }
 

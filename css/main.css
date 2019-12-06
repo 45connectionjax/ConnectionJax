@@ -425,7 +425,7 @@ footer .theme-by {
 .lex-preview .lex-meta,
 .lex-heading .lex-meta {
   color: #808080;
-  font-size: 15px;
+  font-size: 20px;
   font-style: italic;
   margin: 0 0 10px;
 }
@@ -434,7 +434,7 @@ footer .theme-by {
 }
 .lex-entry-container {
   display: inline-block;
-  width: 100%;
+  width: 33.3333333333%;
 }
 .lex-entry {
   width: 33.3333333333%;

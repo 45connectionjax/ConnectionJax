@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Gathering
+title: Baptism
 image: /img/WeAre.JPG
 published: true
-subtitle: Connecting People to Christ
+subtitle: The Gathering
+date: '2019-12-06'
 ---
-Connection Church exists to celebrate Christ in worship, to assist Christ followers to become Christ-like, and to reach people the church world has forgotten.
+here is a pretend post about connection baptism to show that posts made on The Gathering page will also show ip here on the main page. Tada!

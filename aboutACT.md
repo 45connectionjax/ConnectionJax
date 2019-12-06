@@ -1,5 +1,6 @@
 ---
 layout: "page"
+avatar: "/img/ACT-icon.JPG"
 title: "Artist Connection Theatre Inc." 
 ---
 
